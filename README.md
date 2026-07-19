@@ -253,7 +253,7 @@ git clone https://github.com/your-username/ColorBlendMarketplace.git
 
 # 👩‍💻 Developed By
 
-**Samiksha Patil**  
+**Samiksha Patil Tanvi Patil**  
 Android Developer  
 
 ---
